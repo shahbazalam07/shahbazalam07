@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Alam</h1>
 <h3 align="center">A passionate Web Developer and Programming Enthusiastic from India</h3>
 
-- 🔭 I’m currently working on **E-Banking**
+- 🔭 I’m currently working on **E-Banking Webpage**
 
 - 👯 I’m looking to collaborate to **Web Developers**
 
