@@ -23,4 +23,4 @@
 <a href="https://fb.com/shahbaz alam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shahbaz alam" height="20" width="20" /></a>
 <a href="https://instagram.com/shahbazalam51" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shahbazalam51" height="20" width="20" /></a>
 </p>
-<footer>CopyrIGHT@2020</footer>
+<footer><centre>Copyright@2020</centre></footer>
