@@ -33,7 +33,7 @@
 
 <div align="center">
 
-### Copyright@2020 ### Shahbaz Alam
+### Copyright@2020||Shahbaz Alam.
 
 </div>
                                                          
