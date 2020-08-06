@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/Hi.gif" width="30px">, I'm Shahbaz Alam</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/Hi.gif" width="30px">, I'm Shahbaz Alam</h1>
 <h3 align="center">A passionate Web Developer and Programming Enthusiastic from India</h3>
 
 - 🔭 I’m currently working on **E-Banking Webpage**
