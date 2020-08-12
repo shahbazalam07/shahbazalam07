@@ -14,8 +14,8 @@
 - 📫 How to reach me **Linkedln->https://www.linkedin.com/in/shahbaz-alam-494b381a6 , Twitter->https://twitter.com/Shahbaz12268097?s=09 , Insta->https://instagram.com/shahbazalam51?igshid=j572t5mrw832**
 
 - ⚡ Fun fact **Equal is Not Always Equal in Javascript**😉
-<img align="right" height="250" width="375" alt="coder" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif" />
-<img align="right" height="250" width="375" alt="coder" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
+
+<img align="right" height="250" width="400" alt="coder" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
 
 ### Languages and Tools
