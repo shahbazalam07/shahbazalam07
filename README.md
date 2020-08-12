@@ -1,4 +1,4 @@
-<img align="centre" height="140" width="130" alt="Welcome" src="https://www.indungi.ro/forum/uploads/gallery/category_52/gallery_24666_52_8640191.gif"/>
+<img align="centre" height="440" width="230" alt="Welcome" src="https://www.indungi.ro/forum/uploads/gallery/category_52/gallery_24666_52_8640191.gif"/>
 
 
 
