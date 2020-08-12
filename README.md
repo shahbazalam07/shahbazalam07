@@ -1,4 +1,4 @@
-<img align="right" height="140" width="130" alt="coder" src="https://steamuserimages-a.akamaihd.net/ugc/143381638465612319/43D58132DCADAA3312C4E95A70F7A177AD5D1A5F"/>
+<img align="right" height="140" width="130" alt="coder" src="https://www.indungi.ro/forum/uploads/gallery/category_52/gallery_24666_52_8640191.gif">
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/Hi.gif" width="30px">, I'm Shahbaz Alam</h1>
 <h3 align="center">A passionate Web Developer and Programming Enthusiastic from India</h3>
