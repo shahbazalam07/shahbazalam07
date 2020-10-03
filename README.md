@@ -13,7 +13,7 @@
 
                                 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me ***https://shahbazalam07.github.io/Profile/**
+- 📫 How to reach me **https://shahbazalam07.github.io/Profile/**
 
 - ⚡ Fun fact **Equal is Not Always Equal in Javascript**😉
 
