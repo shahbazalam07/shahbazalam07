@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shahbazalam07.github.io/Shahbaz-My-Portfolio/](https://shahbazalam07.github.io/Shahbaz-My-Portfolio/)
 
-                                - 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **https://shahbazalam07.github.io/Profile/**
 
