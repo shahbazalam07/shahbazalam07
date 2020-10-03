@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/Hi.gif" width="30px">, I'm Shahbaz Alam</h1>
-<img align="left" src="https://github.com/Ishaan28malik/Ishaan28malik/blob/master/Dev.jpg" width="22%"/>
+<img align="left" src="https://github.com/Ishaan28malik/Ishaan28malik/blob/master/Dev.jpg" width="16%"/>
 
 <h3 align="link">A passionate Web Developer and Programming Enthusiastic from India</h3>
 
