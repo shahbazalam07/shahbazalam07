@@ -50,7 +50,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
+![Profile Hits](http://img.shields.io/badge/Profile%20Views-220-violet)
 
 
 
