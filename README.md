@@ -50,9 +50,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-823-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+
 
 **🐱 My Github Data** 
 
@@ -60,7 +60,7 @@
  > 
 > 📦 333.2 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 💼 Currently MERN Stack Developer
  > 
 > 📜 44 Public Repositories
  > 
@@ -114,7 +114,7 @@ Css                      10 repos            ██████░░░░░�
 Html                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
 JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
 Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
