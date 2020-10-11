@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **Developers**
 
-- 🤔 I’m looking for help with **Ajax**
+- 🤔 I’m looking for help with **Angular**
 
 - 👨‍💻 All of my projects are available at [https://shahbazalam07.github.io/Shahbaz-My-Portfolio/](https://shahbazalam07.github.io/Shahbaz-My-Portfolio/)
 
