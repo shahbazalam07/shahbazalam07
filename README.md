@@ -49,32 +49,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
-![Profile Hits](http://img.shields.io/badge/Profile%20Hits-220-violet)
 
-
-
-**🐱 My Github Data** 
-
-> 🏆 117 Commit in the Year 2020
- > 
-> 📦 333.2 kB Used in Github's Storage 
- > 
-> 💼 Currently MERN Stack Developer
- > 
-> 📜 44 Public Repositories
- > 
-> 🔑 2 Private Repositories 
-
-
-**I Mostly Code in Vue** 
-
-```text
-Css                      15 repos            ██████░░░░░░░░░░░░░░░░░░░   30.64% 
-Html                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░  27.95% 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░  29.64% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.69%
 
 
 
