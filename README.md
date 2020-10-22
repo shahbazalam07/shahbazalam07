@@ -3,7 +3,7 @@
 
 <h3 align="link">A passionate Web Developer and Programming Enthusiastic from India</h3>
 
-- 🔭 I’m currently working on **E-Banking Webpage**
+- 🔭 I’m currently working on **MEAN Stack**
 
 - 👯 I’m looking to collaborate with **Developers**
 
@@ -52,7 +52,5 @@
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazalam07&show_icons=true&locale=en" alt="shahbazalam07" /></p>
 
 
