@@ -31,7 +31,7 @@
 </p>
 
 
-
+<img align="right" height="220" width="390" alt="coder" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 </div>
                                                          
-<img align="right" height="220" width="390" alt="coder" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
+
 
 
 
