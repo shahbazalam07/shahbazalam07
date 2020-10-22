@@ -51,5 +51,14 @@
 ---
 
 
+<h1 align="center">Hi 👋, I'm Shahbaz Alam</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazalam07&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazalam07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbazalam07" alt="shahbazalam07" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbazalam07&show_icons=true&locale=en&layout=compact" alt="shahbazalam07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazalam07&show_icons=true&locale=en" alt="shahbazalam07" /></p>
 
 
