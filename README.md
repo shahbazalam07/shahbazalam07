@@ -32,11 +32,11 @@
 <a href="https://linkedin.com/in/shahbaz alam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahbaz alam" height="20" width="20" /></a>
 <a href="https://fb.com/shahbaz alam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shahbaz alam" height="20" width="20" /></a>
 <a href="https://instagram.com/shahbazalam51" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shahbazalam51" height="20" width="20" /></a>
-</p>
+
 <a href="https://dev.to/shahbazalam07">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shahbaz Alam's DEV Profile" height="30" width="30">
 </a>
-
+</p>
 <div align="center">
 
 ### Copyright@2020||Shahbaz Alam.
