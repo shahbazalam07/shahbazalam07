@@ -16,6 +16,9 @@
 
 - ⚡ Fun fact **Equal is Not Always Equal in Javascript**😉
 
+ 
+- ✍ Profile summary **https://profile-summary-for-github.com/user/shahbazalam07**
+
 <img align="right" height="220" width="440" alt="coder" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
 ### Languages and Tools
@@ -48,7 +51,6 @@
 
 </div>
                                                          
-
 
 
 
