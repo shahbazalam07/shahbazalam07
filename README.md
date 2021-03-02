@@ -21,7 +21,6 @@
 
 <img align="right" height="220" width="440" alt="coder" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
-### Languages and Tools
 
 
 
