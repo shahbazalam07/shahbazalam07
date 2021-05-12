@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Shahbaz Alam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">..! </h1>
 
-<h3 align="center">Web Development Enthusiast from India ❤</h3>
+<h3 align="center">A Web Development Enthusiast from India ❤</h3>
   
 A 2nd year undergraduate student in  Electronics & Communications Engineering, 🌈 And a Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:.   
 
