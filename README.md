@@ -17,7 +17,7 @@ A 2nd year undergraduate student in  Electronics & Communications Engineering, �
 - 👯 I’m looking to collaborate on **Web Dev projects**
 - 📫 How to reach me:**(https://shahbazalam07.github.io/Profile/)**
 - 😄 Pronouns: he/him/his
--  👨‍💻 All of my projects are available at [https://shahbazalam07.github.io/Shahbaz-My-Portfolio/](https://shahbazalam07.github.io/Shahbaz-My-Portfolio/)
+-  👨‍💻 All of my projects are available at [https://shahbazalam07.github.io/Shahbaz-My-Portfolio/](https://shahbazalam07.github.io/My-Portfolio/)
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript ! 
 - ✍ Profile summary **https://profile-summary-for-github.com/user/shahbazalam07**
 <br />
